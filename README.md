@@ -8,6 +8,8 @@ Repo inspired by [Papers we Love](https://github.com/papers-we-love/papers-we-lo
 
 ## Contributing and a warning
 
+[Linking your Discord and GitHub](https://hackdiffe.rent/LINKING)
+
 We want this collection to be around for new jailbreakers and hobbiests for years to come, so we must say: this
 collection accepts (with gratitude) pull-requests that improve it, but under no circumstances
 will a PR based on `AppleInternal`, or any other copyrighted works protected by the
@@ -78,6 +80,7 @@ See [docs/Binary_Tooling](docs/Binary_Tooling)
 ### Tools for Binary Analysis and Modification
 
 * [checkra1n/toolchain](https://github.com/checkra1n/toolchain)
+* [alephsecurity/xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)
 * [IDA Disassembler by HexRays](https://hex-rays.com/ida-pro/)
   * [`onethawt/idaplugins-list`](https://github.com/onethawt/idaplugins-list)
   * [`cellebrite-srl/ida_kernelcache`](https://github.com/cellebrite-srl/ida_kernelcache)
@@ -86,6 +89,7 @@ See [docs/Binary_Tooling](docs/Binary_Tooling)
 * [VisUAL ARM Simulator](https://salmanarif.bitbucket.io/visual/index.html)
 * [Ghidra Disassembler](https://ghidra-sre.org)
   * [`AllsafeCyberSecurity/awesome-ghidra`](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
+  * [`0x36/ghidra_kernelcache`](https://github.com/0x36/ghidra_kernelcache)
 * [Hopper Disassembler](https://www.hopperapp.com)
 * [`blacktop/ipsw`](https://github.com/blacktop/ipsw)
 * [jtool2](http://www.newosxbook.com/tools/jtool.html)
@@ -289,6 +293,7 @@ See [docs/Binary_Tooling](docs/Binary_Tooling)
   * <http://ramtin-amin.fr/#nvmedma>
 * [gh2o/rvi_capture](https://github.com/gh2o/rvi_capture)
 * [osy/ThunderboltPatcher](https://github.com/osy/ThunderboltPatcher)
+* [Qi Wireless Charging](https://www.wirelesspowerconsortium.com/knowledge-base/specifications/download-the-qi-specifications.html)
 
 ### Network / Wireless / Transit
 
